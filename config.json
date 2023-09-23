@@ -1,8 +1,8 @@
 {
 	"pools":[
 	{
-		"name": "na.luckpool.net:3956",
-        "url": "stratum+tcp://na.luckpool.net:3956",
+		"name": "usw.vipor.net:5040",
+        "url": "stratum+tcp://usw.vipor.net:5040",
 		"timeout": 150
 	},
 	{
